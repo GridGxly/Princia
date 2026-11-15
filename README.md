@@ -1,2 +1,2 @@
-# TransferTrack
+# Git for AI agents
 hi
